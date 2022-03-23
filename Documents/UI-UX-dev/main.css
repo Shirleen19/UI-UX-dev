@@ -1,0 +1,36 @@
+*{
+    padding:0px;
+    margin:0px;
+  }
+  body{
+  background-color: white;
+  color: #222;
+  background-image: url("https://www.freecodecamp.org/news/content/images/size/w2000/2021/07/kobu-agency-ipARHaxETRk-unsplash.jpg");
+  background-size: cover;
+  }
+  .panel{
+      background-color: #ffffff;
+      padding
+  }
+  .container-fluid{
+      background-color: orange;
+      text-align:center;
+      width:100%;
+      margin-bottom:30px;
+  }
+  .container{
+      color:#ffffff;
+  }
+  h5{
+      padding-top:50px;
+  }
+  h6{
+      padding-top:100px;
+  }
+  .off{
+      font-size:15px;
+      float:left;
+      color:#ffffff;
+      padding-left:800px;
+      padding-top:300px;
+  }
